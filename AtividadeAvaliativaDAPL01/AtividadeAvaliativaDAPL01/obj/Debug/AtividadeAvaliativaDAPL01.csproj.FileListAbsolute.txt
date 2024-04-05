@@ -1,0 +1,13 @@
+C:\Users\livia\OneDrive\Desktop\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\bin\Debug\AtividadeAvaliativaDAPL01.exe.config
+C:\Users\livia\OneDrive\Desktop\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\bin\Debug\AtividadeAvaliativaDAPL01.exe
+C:\Users\livia\OneDrive\Desktop\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\bin\Debug\AtividadeAvaliativaDAPL01.pdb
+C:\Users\livia\OneDrive\Desktop\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\obj\Debug\AtividadeAvaliativaDAPL01.csproj.AssemblyReference.cache
+C:\Users\livia\OneDrive\Desktop\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\obj\Debug\AtividadeAvaliativaDAPL01.ForgotPasswordPage.resources
+C:\Users\livia\OneDrive\Desktop\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\obj\Debug\AtividadeAvaliativaDAPL01.Properties.Resources.resources
+C:\Users\livia\OneDrive\Desktop\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\obj\Debug\AtividadeAvaliativaDAPL01.csproj.GenerateResource.cache
+C:\Users\livia\OneDrive\Desktop\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\obj\Debug\AtividadeAvaliativaDAPL01.csproj.CoreCompileInputs.cache
+C:\Users\livia\OneDrive\Desktop\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\obj\Debug\AtividadeAvaliativaDAPL01.exe
+C:\Users\livia\OneDrive\Desktop\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\obj\Debug\AtividadeAvaliativaDAPL01.pdb
+C:\Users\livia\OneDrive\Desktop\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\obj\Debug\AtividadeAvaliativaDAPL01.EnterPage.resources
+C:\Users\livia\OneDrive\Desktop\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\obj\Debug\AtividadeAvaliativaDAPL01.HomePage.resources
+C:\Users\livia\OneDrive\Desktop\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\obj\Debug\AtividadeAvaliativaDAPL01.CreateAcc.resources
