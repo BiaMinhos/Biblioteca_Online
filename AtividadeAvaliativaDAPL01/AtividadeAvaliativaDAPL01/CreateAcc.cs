@@ -19,9 +19,32 @@ namespace AtividadeAvaliativaDAPL01
 
         private void CreateButton_Click(object sender, EventArgs e)
         {
-            EnterPage novoForm5 = new EnterPage();
-            this.Hide();
-            novoForm5.Show();
+
+            UserDTO userDTO = new UserDTO();
+
+            userDTO.Login = LoginInBox.Text;
+            userDTO.Password = PasswordInBox.Text;
+            userDTO.Email = EmailInBox.Text;
+
+            if (PasswordInBox.Text != ConfirmPasswordBox.Text)
+            {
+                MessageBox.Show("As senhas digitadas são incompatíveis");
+            }
+            else
+            {
+                User user = new User();
+                user.CreateAccount(userDTO);
+                
+                EnterPage novoForm5 = new EnterPage();
+                this.Hide();
+                novoForm5.Show();
+            }
+           
+        }
+
+        private void LoginInBox_TextChanged(object sender, EventArgs e)
+        {
+           
         }
     }
 }

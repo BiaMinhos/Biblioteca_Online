@@ -1,0 +1,6 @@
+Login:p;Password:p;Email:p
+Login:oi;Password:oi;Email:oi
+Login:ui;Password:ui;Email:ui
+Login:po;Password:po;Email:po
+Login:;Password:;Email:
+Login:ju;Password:ju;Email:ju

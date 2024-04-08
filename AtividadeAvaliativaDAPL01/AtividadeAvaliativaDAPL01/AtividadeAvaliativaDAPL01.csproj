@@ -46,6 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Livro.cs" />
+    <Compile Include="User.cs" />
+    <Compile Include="UserDTO.cs" />
     <Compile Include="EnterPage.cs">
       <SubType>Form</SubType>
     </Compile>

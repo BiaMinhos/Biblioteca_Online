@@ -1,38 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\livia\\OneDrive\\Desktop\\AtividadeAvaliativaDAPL01\\",
+  "WorkspaceRootPath": "C:\\ETE\\AtividadeAvaliativaDAPL01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|c:\\users\\livia\\onedrive\\desktop\\atividadeavaliativadapl01\\atividadeavaliativadapl01\\enterpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|solutionrelative:atividadeavaliativadapl01\\enterpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|c:\\ete\\atividadeavaliativadapl01\\atividadeavaliativadapl01\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|solutionrelative:atividadeavaliativadapl01\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|c:\\users\\livia\\onedrive\\desktop\\atividadeavaliativadapl01\\atividadeavaliativadapl01\\createacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|solutionrelative:atividadeavaliativadapl01\\createacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|C:\\Users\\livia\\OneDrive\\Desktop\\AtividadeAvaliativaDAPL01\\atividadeavaliativadapl01\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|c:\\ete\\atividadeavaliativadapl01\\atividadeavaliativadapl01\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|solutionrelative:atividadeavaliativadapl01\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|C:\\Users\\livia\\OneDrive\\Desktop\\AtividadeAvaliativaDAPL01\\atividadeavaliativadapl01\\enterpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|solutionrelative:atividadeavaliativadapl01\\enterpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|C:\\Users\\livia\\OneDrive\\Desktop\\AtividadeAvaliativaDAPL01\\atividadeavaliativadapl01\\createacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|c:\\ete\\atividadeavaliativadapl01\\atividadeavaliativadapl01\\createacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|solutionrelative:atividadeavaliativadapl01\\createacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|C:\\Users\\livia\\OneDrive\\Desktop\\AtividadeAvaliativaDAPL01\\atividadeavaliativadapl01\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|c:\\ete\\atividadeavaliativadapl01\\atividadeavaliativadapl01\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|solutionrelative:atividadeavaliativadapl01\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|c:\\ete\\atividadeavaliativadapl01\\atividadeavaliativadapl01\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|solutionrelative:atividadeavaliativadapl01\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|c:\\ete\\atividadeavaliativadapl01\\atividadeavaliativadapl01\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|solutionrelative:atividadeavaliativadapl01\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|C:\\Users\\livia\\OneDrive\\Desktop\\AtividadeAvaliativaDAPL01\\atividadeavaliativadapl01\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|solutionrelative:atividadeavaliativadapl01\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|c:\\ete\\atividadeavaliativadapl01\\atividadeavaliativadapl01\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|solutionrelative:atividadeavaliativadapl01\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|C:\\Users\\livia\\OneDrive\\Desktop\\AtividadeAvaliativaDAPL01\\atividadeavaliativadapl01\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|solutionrelative:atividadeavaliativadapl01\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|c:\\ete\\atividadeavaliativadapl01\\atividadeavaliativadapl01\\createacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|solutionrelative:atividadeavaliativadapl01\\createacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|c:\\ete\\atividadeavaliativadapl01\\atividadeavaliativadapl01\\enterpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA088C3E-A984-4D52-BB8F-B7EDF9E91F0E}|AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01.csproj|solutionrelative:atividadeavaliativadapl01\\enterpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,107 +46,122 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateAcc.cs",
-              "DocumentMoniker": "C:\\Users\\livia\\OneDrive\\Desktop\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\CreateAcc.cs",
-              "RelativeDocumentMoniker": "AtividadeAvaliativaDAPL01\\CreateAcc.cs",
-              "ToolTip": "C:\\Users\\livia\\OneDrive\\Desktop\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\CreateAcc.cs",
-              "RelativeToolTip": "AtividadeAvaliativaDAPL01\\CreateAcc.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAwwBUAAAAgAAAA",
+              "DocumentIndex": 6,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\ETE\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\Livro.cs",
+              "RelativeDocumentMoniker": "AtividadeAvaliativaDAPL01\\Livro.cs",
+              "ToolTip": "C:\\ETE\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\Livro.cs",
+              "RelativeToolTip": "AtividadeAvaliativaDAPL01\\Livro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T18:28:14.006Z",
+              "WhenOpened": "2024-04-08T14:26:21.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\ETE\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\UserDTO.cs",
+              "RelativeDocumentMoniker": "AtividadeAvaliativaDAPL01\\UserDTO.cs",
+              "ToolTip": "C:\\ETE\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\UserDTO.cs",
+              "RelativeToolTip": "AtividadeAvaliativaDAPL01\\UserDTO.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:20:44.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateAcc.cs [Design]",
+              "DocumentMoniker": "C:\\ETE\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\CreateAcc.cs",
+              "RelativeDocumentMoniker": "AtividadeAvaliativaDAPL01\\CreateAcc.cs",
+              "ToolTip": "C:\\ETE\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\CreateAcc.cs [Design]",
+              "RelativeToolTip": "AtividadeAvaliativaDAPL01\\CreateAcc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:03:35.835Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\ETE\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\HomePage.cs",
+              "RelativeDocumentMoniker": "AtividadeAvaliativaDAPL01\\HomePage.cs",
+              "ToolTip": "C:\\ETE\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\HomePage.cs",
+              "RelativeToolTip": "AtividadeAvaliativaDAPL01\\HomePage.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAA9wDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:33:57.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ForgotPassword.cs",
+              "DocumentMoniker": "C:\\ETE\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\ForgotPassword.cs",
+              "RelativeDocumentMoniker": "AtividadeAvaliativaDAPL01\\ForgotPassword.cs",
+              "ToolTip": "C:\\ETE\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\ForgotPassword.cs",
+              "RelativeToolTip": "AtividadeAvaliativaDAPL01\\ForgotPassword.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:24:37.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateAcc.cs",
+              "DocumentMoniker": "C:\\ETE\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\CreateAcc.cs",
+              "RelativeDocumentMoniker": "AtividadeAvaliativaDAPL01\\CreateAcc.cs",
+              "ToolTip": "C:\\ETE\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\CreateAcc.cs",
+              "RelativeToolTip": "AtividadeAvaliativaDAPL01\\CreateAcc.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T19:57:04.241Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "EnterPage.cs",
-              "DocumentMoniker": "C:\\Users\\livia\\OneDrive\\Desktop\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\EnterPage.cs",
-              "RelativeDocumentMoniker": "AtividadeAvaliativaDAPL01\\EnterPage.cs",
-              "ToolTip": "C:\\Users\\livia\\OneDrive\\Desktop\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\EnterPage.cs",
-              "RelativeToolTip": "AtividadeAvaliativaDAPL01\\EnterPage.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAcwCAAAAAdAAAA",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\ETE\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\User.cs",
+              "RelativeDocumentMoniker": "AtividadeAvaliativaDAPL01\\User.cs",
+              "ToolTip": "C:\\ETE\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\User.cs",
+              "RelativeToolTip": "AtividadeAvaliativaDAPL01\\User.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T02:00:56.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EnterPage.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\livia\\OneDrive\\Desktop\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\EnterPage.cs",
-              "RelativeDocumentMoniker": "AtividadeAvaliativaDAPL01\\EnterPage.cs",
-              "ToolTip": "C:\\Users\\livia\\OneDrive\\Desktop\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\EnterPage.cs [Design]",
-              "RelativeToolTip": "AtividadeAvaliativaDAPL01\\EnterPage.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T01:58:17.563Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ForgotPassword.cs",
-              "DocumentMoniker": "C:\\Users\\livia\\OneDrive\\Desktop\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\ForgotPassword.cs",
-              "RelativeDocumentMoniker": "AtividadeAvaliativaDAPL01\\ForgotPassword.cs",
-              "ToolTip": "C:\\Users\\livia\\OneDrive\\Desktop\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\ForgotPassword.cs",
-              "RelativeToolTip": "AtividadeAvaliativaDAPL01\\ForgotPassword.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAwwBcAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T12:45:44.997Z",
+              "WhenOpened": "2024-04-07T19:52:47.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "HomePage.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\livia\\OneDrive\\Desktop\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\HomePage.cs",
+              "DocumentMoniker": "C:\\ETE\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\HomePage.cs",
               "RelativeDocumentMoniker": "AtividadeAvaliativaDAPL01\\HomePage.cs",
-              "ToolTip": "C:\\Users\\livia\\OneDrive\\Desktop\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\HomePage.cs [Design]",
+              "ToolTip": "C:\\ETE\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\HomePage.cs [Design]",
               "RelativeToolTip": "AtividadeAvaliativaDAPL01\\HomePage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T12:26:51.746Z",
+              "WhenOpened": "2024-04-08T14:30:06.283Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateAcc.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\livia\\OneDrive\\Desktop\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\CreateAcc.cs",
-              "RelativeDocumentMoniker": "AtividadeAvaliativaDAPL01\\CreateAcc.cs",
-              "ToolTip": "C:\\Users\\livia\\OneDrive\\Desktop\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\CreateAcc.cs [Design]",
-              "RelativeToolTip": "AtividadeAvaliativaDAPL01\\CreateAcc.cs [Design]",
+              "DocumentIndex": 8,
+              "Title": "EnterPage.cs",
+              "DocumentMoniker": "C:\\ETE\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\EnterPage.cs",
+              "RelativeDocumentMoniker": "AtividadeAvaliativaDAPL01\\EnterPage.cs",
+              "ToolTip": "C:\\ETE\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\EnterPage.cs",
+              "RelativeToolTip": "AtividadeAvaliativaDAPL01\\EnterPage.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwCsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T02:19:35.913Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomePage.cs",
-              "DocumentMoniker": "C:\\Users\\livia\\OneDrive\\Desktop\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\HomePage.cs",
-              "RelativeDocumentMoniker": "AtividadeAvaliativaDAPL01\\HomePage.cs",
-              "ToolTip": "C:\\Users\\livia\\OneDrive\\Desktop\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\HomePage.cs",
-              "RelativeToolTip": "AtividadeAvaliativaDAPL01\\HomePage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T02:43:00.363Z",
+              "WhenOpened": "2024-04-07T19:55:02.443Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ForgotPassword.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\livia\\OneDrive\\Desktop\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\ForgotPassword.cs",
-              "RelativeDocumentMoniker": "AtividadeAvaliativaDAPL01\\ForgotPassword.cs",
-              "ToolTip": "C:\\Users\\livia\\OneDrive\\Desktop\\AtividadeAvaliativaDAPL01\\AtividadeAvaliativaDAPL01\\ForgotPassword.cs [Design]",
-              "RelativeToolTip": "AtividadeAvaliativaDAPL01\\ForgotPassword.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T12:26:16.509Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

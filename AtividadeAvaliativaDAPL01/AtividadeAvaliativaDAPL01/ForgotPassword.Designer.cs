@@ -81,6 +81,7 @@
             this.SendButton.TabIndex = 7;
             this.SendButton.Text = "Enviar Email";
             this.SendButton.UseVisualStyleBackColor = false;
+            this.SendButton.Click += new System.EventHandler(this.SendButton_Click);
             // 
             // CAPageLabel
             // 

@@ -106,6 +106,7 @@
             this.LoginInBox.Name = "LoginInBox";
             this.LoginInBox.Size = new System.Drawing.Size(233, 16);
             this.LoginInBox.TabIndex = 7;
+            this.LoginInBox.TextChanged += new System.EventHandler(this.LoginInBox_TextChanged);
             // 
             // EmailInBox
             // 

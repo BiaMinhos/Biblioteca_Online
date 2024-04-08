@@ -28,9 +28,18 @@ namespace AtividadeAvaliativaDAPL01
 
         private void EnterButton_Click(object sender, EventArgs e)
         {
-            HomePage novoForm3 = new HomePage();
-            this.Hide();
-            novoForm3.Show();
+            User user = new User();
+            if (user.ExistUser(LoginBox.Text, PasswordBox.Text) == false ) 
+            {
+                MessageBox.Show("Usuário ou senha incorretos, tente novamente.");            
+            }
+            else
+            {
+                HomePage novoForm3 = new HomePage();
+                this.Hide();
+                novoForm3.Show();
+            }
+        
         }
 
         private void CAPageLabel_Click(object sender, EventArgs e)
