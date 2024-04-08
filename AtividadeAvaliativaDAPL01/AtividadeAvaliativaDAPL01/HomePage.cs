@@ -12,6 +12,8 @@ namespace AtividadeAvaliativaDAPL01
 {
     public partial class HomePage : Form
     {
+
+        string sinopse;
         public HomePage()
         {
             InitializeComponent();
@@ -19,7 +21,7 @@ namespace AtividadeAvaliativaDAPL01
 
         private void Book1Box_Click(object sender, EventArgs e)
         {
-            Desc1984.Text = "1984 descreve a luta de Winston\nSmith contra um regime\ntotalitário, onde a vigilância\nconstante e a manipulação\nideológica controlam cada\naspecto da vida dos cidadãos.";
+            Desc1984.Text = GetSinopse1;
         }
 
         private void Book2Box_Click(object sender, EventArgs e)
@@ -53,7 +55,30 @@ namespace AtividadeAvaliativaDAPL01
         {
 
         }
+        private void GetSinopse1()
+        {
+            sinopse = "1984 descreve a luta de Winston\nSmith contra um regime\ntotalitário, onde a vigilância\nconstante e a manipulação\nideológica controlam cada\naspecto da vida dos cidadãos.";
 
+        }
+        private void GetSinopse2()
+        {
 
+        }
+        private void GetSinopse3()
+        {
+
+        }
+        private void GetSinopse4()
+        {
+
+        }
+        private void GetSinopse5()
+        {
+
+        }
+        private void GetSinopse6()
+        {
+
+        }
     }
 }
