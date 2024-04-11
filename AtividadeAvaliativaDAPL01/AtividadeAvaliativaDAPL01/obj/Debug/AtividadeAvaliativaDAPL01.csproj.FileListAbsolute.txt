@@ -11,3 +11,16 @@ C:\ETE\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\obj\Debug\AtividadeAv
 C:\ETE\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\obj\Debug\AtividadeAvaliativaDAPL01.csproj.CoreCompileInputs.cache
 C:\ETE\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\obj\Debug\AtividadeAvaliativaDAPL01.exe
 C:\ETE\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\obj\Debug\AtividadeAvaliativaDAPL01.pdb
+C:\Users\Alunos\Desktop\mosca\Biblioteca_Online\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\obj\Debug\AtividadeAvaliativaDAPL01.csproj.AssemblyReference.cache
+C:\Users\Alunos\Desktop\mosca\Biblioteca_Online\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\obj\Debug\AtividadeAvaliativaDAPL01.EnterPage.resources
+C:\Users\Alunos\Desktop\mosca\Biblioteca_Online\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\obj\Debug\AtividadeAvaliativaDAPL01.ForgotPasswordPage.resources
+C:\Users\Alunos\Desktop\mosca\Biblioteca_Online\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\obj\Debug\AtividadeAvaliativaDAPL01.CreateAcc.resources
+C:\Users\Alunos\Desktop\mosca\Biblioteca_Online\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\obj\Debug\AtividadeAvaliativaDAPL01.HomePage.resources
+C:\Users\Alunos\Desktop\mosca\Biblioteca_Online\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\obj\Debug\AtividadeAvaliativaDAPL01.Properties.Resources.resources
+C:\Users\Alunos\Desktop\mosca\Biblioteca_Online\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\obj\Debug\AtividadeAvaliativaDAPL01.csproj.GenerateResource.cache
+C:\Users\Alunos\Desktop\mosca\Biblioteca_Online\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\obj\Debug\AtividadeAvaliativaDAPL01.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\mosca\Biblioteca_Online\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\obj\Debug\AtividadeAvaliativaDAPL01.exe
+C:\Users\Alunos\Desktop\mosca\Biblioteca_Online\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\obj\Debug\AtividadeAvaliativaDAPL01.pdb
+C:\Users\Alunos\Desktop\mosca\Biblioteca_Online\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\bin\Debug\AtividadeAvaliativaDAPL01.exe.config
+C:\Users\Alunos\Desktop\mosca\Biblioteca_Online\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\bin\Debug\AtividadeAvaliativaDAPL01.exe
+C:\Users\Alunos\Desktop\mosca\Biblioteca_Online\AtividadeAvaliativaDAPL01\AtividadeAvaliativaDAPL01\bin\Debug\AtividadeAvaliativaDAPL01.pdb
